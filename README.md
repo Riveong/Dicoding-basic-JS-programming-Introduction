@@ -1,1 +1,1 @@
-# -Dicoding-basic-JS-programming---Introduction
+# -Dicoding-basic-JS-programming - Introduction
