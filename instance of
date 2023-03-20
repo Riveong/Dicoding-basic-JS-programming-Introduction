@@ -1,0 +1,7 @@
+const whatsapp = new WhatsAppService('+6281234567890');
+ 
+console.log(whatsapp instanceof WhatsAppService); // true
+console.log(whatsapp instanceof EmailService); // false
+
+
+//ini buat ngecek variable objeknya siapa
